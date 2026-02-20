@@ -5,6 +5,6 @@ These event guides are to help anyone get started putting on events in the commu
 
 ## Available Guides
 
-- [Event Guides](Event%20Guides.md) - Comprehensive guide for planning and running larger events, conferences, and community gatherings
-- [Meetup/UserGroup Guide](Meetup_UserGroup%20Guide.md) - Quick start guide for organizing meetups and user groups
+- [Event Guides](event_guide.md) - Comprehensive guide for planning and running larger events, conferences, and community gatherings
+- [Meetup/UserGroup Guide](Meetup_UserGroup_Guide.md) - Quick start guide for organizing meetups and user groups
 
