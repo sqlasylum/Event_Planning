@@ -9,16 +9,16 @@ You are welcome to COPY this document and store it locally on your google drive 
 If you have questions about the document or have suggested updates please let Pat Wright know [Sqlasylum@gmail.com](mailto:Sqlasylum@gmail.com) 
 
 Menu  
-[Events Getting Started](#events:)  
+[Events Getting Started](#events)  
 [Sponsors](#sponsors)  
 [Volunteers](#volunteers)  
-[Sessions/Program Committee](#sessions/program-committee)  
+[Sessions/Program Committee](#sessionsprogram-committee)  
 [Tagline Example](#taglines-for-use-in-emails-with-sponsors-and-attendees)  
 [Location Scouting Checklist](#location-scouting-checklist)   
 [Marketing Emails](#marketing-emails)   
 [General Items Sheet](#general-items) 
 
-# Events:  {#events:}
+# Events
 
 List of items to start with. 
 
@@ -43,7 +43,7 @@ List of items to start with.
 
 Once you have the location and date everything else listed below can and should be run in parallel. 
 
-# Sponsors {#sponsors}
+# Sponsors
 
 This section will cover sponsors, how to obtain and sell, and Determining costs in the budgeting section.  
 
@@ -75,7 +75,7 @@ This section will cover sponsors, how to obtain and sell, and Determining costs 
    1. Sponsors have a good amount of questions and need help with setup when they arrive on site.  It’s good to have an organizer who is dedicated to them and not helping with morning registration or some other task.    
    2. This person should have the list of sponsors and be ready to “check-in” the sponsors and show them where they need to go for the event.
 
-# Volunteers  {#volunteers}
+# Volunteers
 
 	Volunteers are the heart of an event,  Making sure they are informed and feel valued is very important. 
 
@@ -92,7 +92,7 @@ This section will cover sponsors, how to obtain and sell, and Determining costs 
    2. Make sure to synch up and connect with your volunteers often before the event.   
    3. Things come up, Things can go wrong, make sure the volunteers have your information (Cell,Email,Slack,Telegram) and can reach out to your volunteer coordinator. 
 
-# Sessions/Program Committee {#sessions/program-committee}
+# Sessions/Program Committee
 
 Content is critical for your event; attendees want to interact with speakers and other attendees directly and want to learn something as well.  The sessions and schedule you build will directly impact whether people want to attend the event.  
 
@@ -150,7 +150,7 @@ Content is critical for your event; attendees want to interact with speakers and
       1. Having a sponsor for these items helps.   
       2. New small events may not have the budget for things like this but larger events should consider an afternoon break. It’s needed for the attendees to stay attentive. 
 
-# Taglines for use in emails with sponsors and attendees {#taglines-for-use-in-emails-with-sponsors-and-attendees}
+# Taglines for use in emails with sponsors and attendees
 
 \--------------------------------------------------------------------------  
 Event Date: April 5th 2024, 9-5:00 pm  
@@ -185,7 +185,7 @@ Sponsor Room scheduling: https://calendly.com/pgnyc2024
 Wifi: Network: \<name\> PW: \<pwd\>  
 —--------------------------------------------------------------------------------------
 
-# Location Scouting Checklist  {#location-scouting-checklist}
+# Location Scouting Checklist
 
 You won’t have all these items at the Location, This is just a long list of things you should look up and answer. You might find many of these answers just when talking about the location or when reading through the materials from that specific location. 
 
@@ -279,7 +279,7 @@ You won’t have all these items at the Location, This is just a long list of th
 
 # 
 
-# Marketing Emails  {#marketing-emails}
+# Marketing Emails
 
 Miss you/Send out to previous sponsors 
 
@@ -315,7 +315,7 @@ Thank you for your consideration
 \<contact info\>  
 \<details with tagline\>
 
-# General Items  {#general-items}
+# General Items
 
 Key items all events should know. 
 
